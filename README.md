@@ -5,6 +5,3 @@
 - 🌱 I am currently studying programming and information security (Я сейчас изучаю программирование и защиту информации)
 - 💬 Ask me anything you want to know (Спроси меня обо всем что хочешь узнать)
 - ⚡ Fun fact: I'm a student :)
-
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={Han0ken}
