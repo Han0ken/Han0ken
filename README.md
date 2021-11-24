@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<!--
 **Han0ken/Han0ken** 
 
 - 🔭 I am now working on a program that informs you about your affairs, which you recorded in it (Я сейчас работаю над программой, которая сообщает тебя о твоих делах, которые ты в нее записал)
