@@ -5,3 +5,4 @@
 - 🌱 I am currently studying programming and information security (Я сейчас изучаю программирование и защиту информации)
 - 💬 Ask me anything you want to know (Спроси меня обо всем что хочешь узнать)
 - ⚡ Fun fact: I'm a student :)
+https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white
